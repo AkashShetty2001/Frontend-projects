@@ -1,0 +1,30 @@
+.card{
+    text-align:center;
+    background-color: white;
+    border-top-left-radius:25px;
+    border-top-right-radius: 25px;
+    padding:5px;
+}
+
+.bg-container{
+    background-image:url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg");
+    background-size:cover;
+    height:100vh;
+}
+
+.button{
+    height:36px;
+    width:138px;
+    
+    color:white;
+    border-radius:20px;
+    border-width:0px;
+}
+
+.button-green{
+    background-color: green;
+}
+
+.button-orange{
+    background-color: orange;
+}
